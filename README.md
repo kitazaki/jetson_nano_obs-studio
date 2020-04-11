@@ -15,5 +15,5 @@ $ sudo dpkg -r obs-studio
 
 ## 記事 (Document)
 
-Jetson Nano で ライブ配信ソフト OBS-Studio を動かしてみた。
+Jetson Nano で ライブ配信ソフト OBS-Studio を動かしてみた。  
 https://qiita.com/kitazaki/items/3950c48a68bab1766fb6
